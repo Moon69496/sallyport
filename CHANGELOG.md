@@ -29,3 +29,4 @@
 - docs: fix a small wording issue
 - fix: link the usage section
 - docs: add a note about the defaults
+- chore: fix a small wording issue
